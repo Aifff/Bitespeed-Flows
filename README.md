@@ -1,8 +1,14 @@
 # React + Vite
+ 
+ To use:-
+ - Clone the repo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ - ``npm i`` to install dependencies
 
-Currently, two official plugins are available:
+ - ``npm run dev`` to run the project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A dynamic project for adding nodes to initiate a conversation, and visualize the messages. Drag the text box from the left side bar into the play area(react flow)n and connect the edges to make connection.
+
+Also, change the labels of the text boxes/ nodes by selecting and entering the name in the right sidebar.
+
+Please considering starring the repo if u like it.
